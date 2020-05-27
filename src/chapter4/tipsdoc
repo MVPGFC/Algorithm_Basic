@@ -1,0 +1,11 @@
+HashSet<>不重复
+HashMap<,>key不重复，按照值传递，put()做错,key存在则是更新操作
+时间复杂度O(1)
+如果<>中不是基础类型的对象，则是按照引用传递
+
+有序表，具体实现有红黑树，AVL，SB树，跳表
+TreeSet
+TreeMap<key,value>，key是有序排列
+操作时间复杂度O(logN)
+
+
